@@ -20,6 +20,9 @@
         "$className": "Folder",
         "ProgressProfileTest": {
           "$path": "src/server/ProgressProfile.luau"
+        },
+        "ProgressStoreTest": {
+          "$path": "src/server/ProgressStore.luau"
         }
       },
       "ProgressProfile": {
