@@ -27,6 +27,9 @@
       },
       "ProgressProfile": {
         "$path": "src/server/ProgressProfile.luau"
+      },
+      "ProgressStore": {
+        "$path": "src/server/ProgressStore.luau"
       }
     }
   }
