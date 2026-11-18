@@ -36,6 +36,9 @@
       },
       "IslandHub": {
         "$path": "src/server/IslandHub.luau"
+      },
+      "IslandScenery": {
+        "$path": "src/server/IslandScenery.luau"
       }
     }
   }
