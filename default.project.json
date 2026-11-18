@@ -20,6 +20,9 @@
       },
       "GameConfig": {
         "$path": "src/shared/GameConfig.luau"
+      },
+      "IslandAudio": {
+        "$path": "src/shared/IslandAudio.luau"
       }
     },
     "ServerScriptService": {
