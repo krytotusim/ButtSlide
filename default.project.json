@@ -17,6 +17,9 @@
       },
       "ExpeditionRules": {
         "$path": "src/shared/ExpeditionRules.luau"
+      },
+      "GameConfig": {
+        "$path": "src/shared/GameConfig.luau"
       }
     },
     "ServerScriptService": {
