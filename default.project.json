@@ -58,6 +58,17 @@
       "TrackBuilder": {
         "$path": "src/server/TrackBuilder.luau"
       }
+    },
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+      "$ignoreUnknownInstances": true,
+      "StarterPlayerScripts": {
+        "$className": "StarterPlayerScripts",
+        "$ignoreUnknownInstances": true,
+        "LaunchClient": {
+          "$path": "src/client/LaunchClient.client.luau"
+        }
+      }
     }
   }
 }
