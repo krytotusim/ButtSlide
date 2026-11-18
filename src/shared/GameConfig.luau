@@ -1,3 +1,4 @@
+-- GitHub collaboration test
 local C = {}
 
 C.Locations = {
