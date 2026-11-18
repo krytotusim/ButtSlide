@@ -1,3 +1,4 @@
+
 {
   "name": "ButtSlide",
   "tree": {
@@ -10,6 +11,19 @@
         "GameConfigTest": {
           "$path": "src/shared/GameConfig.luau"
         }
+      }
+    },
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "$ignoreUnknownInstances": true,
+      "RojoTest": {
+        "$className": "Folder",
+        "ProgressProfileTest": {
+          "$path": "src/server/ProgressProfile.luau"
+        }
+      },
+      "ProgressProfile": {
+        "$path": "src/server/ProgressProfile.luau"
       }
     }
   }
