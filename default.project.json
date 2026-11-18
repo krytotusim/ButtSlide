@@ -33,6 +33,9 @@
       },
       "LaunchServer": {
         "$path": "src/server/LaunchServer.server.luau"
+      },
+      "IslandHub": {
+        "$path": "src/server/IslandHub.luau"
       }
     }
   }
