@@ -30,6 +30,9 @@
       },
       "ProgressStore": {
         "$path": "src/server/ProgressStore.luau"
+      },
+      "LaunchServer": {
+        "$path": "src/server/LaunchServer.server.luau"
       }
     }
   }
