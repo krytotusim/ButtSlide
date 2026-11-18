@@ -67,6 +67,9 @@
         "$ignoreUnknownInstances": true,
         "LaunchClient": {
           "$path": "src/client/LaunchClient.client.luau"
+        },
+        "ZooPresentation": {
+          "$path": "src/client/ZooPresentation.client.luau"
         }
       }
     }
