@@ -42,6 +42,9 @@
       },
       "PetHomes": {
         "$path": "src/server/PetHomes.luau"
+      },
+      "TrailFeatures": {
+        "$path": "src/server/TrailFeatures.luau"
       }
     }
   }
