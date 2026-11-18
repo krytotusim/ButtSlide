@@ -45,6 +45,9 @@
       },
       "TrailFeatures": {
         "$path": "src/server/TrailFeatures.luau"
+      },
+      "TrackBuilder": {
+        "$path": "src/server/TrackBuilder.luau"
       }
     }
   }
