@@ -1,0 +1,16 @@
+{
+  "name": "ButtSlide",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "$ignoreUnknownInstances": true,
+      "RojoTest": {
+        "$className": "Folder",
+        "GameConfigTest": {
+          "$path": "src/shared/GameConfig.luau"
+        }
+      }
+    }
+  }
+}
