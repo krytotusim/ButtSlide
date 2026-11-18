@@ -39,6 +39,9 @@
       },
       "IslandScenery": {
         "$path": "src/server/IslandScenery.luau"
+      },
+      "PetHomes": {
+        "$path": "src/server/PetHomes.luau"
       }
     }
   }
